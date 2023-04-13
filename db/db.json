@@ -1,0 +1,14 @@
+[
+    {
+        "title":"Grocery List",
+        "text":"Shopping list for the week"
+    },
+    {
+        "title":"Bills for the Month",
+        "text":"Monthly list of bills"
+    },
+    {
+        "title":"Things to do around the house",
+        "text":"Weekly chores for the week"
+    }
+]
